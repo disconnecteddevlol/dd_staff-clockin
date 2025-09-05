@@ -24,6 +24,8 @@ FiveM server (latest build recommended)
 
 Download the latest release or clone this repository.
 
+You may change the Notify to a diffrent one ( right now its okoknotify )
+
 Place the resource into your resources folder.
 
 Add the following line to your server.cfg:
