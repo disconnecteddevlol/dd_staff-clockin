@@ -36,6 +36,8 @@ Open the Staff Clockin Menu with the defined keybind or command.
 
 Select Clock In to go on duty, or Clock Out to leave duty.
 
+https://discord.gg/5MGKBwU9jG - dev server for custom scripts
+
 📜 License
 
 This resource is provided as-is. Free to use and modify, but please credit Disconnected.
