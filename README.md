@@ -14,11 +14,10 @@ A lightweight FiveM staff clock-in system built with ox_lib menus, developed by 
 
 🎨 Easily configurable for your server’s needs
 
-🔧 Requirements
+Hard dependencies (must have)
 
-ox_lib
-
-FiveM server (latest build recommended)
+ox_lib → because you’re using lib.inputDialog for the clock-in menu. (https://github.com/overextended/ox_lib/releases/tag/v3.30.6)
+okokNotify → because you’re using okokNotify:Alert for notifications. (can change)
 
 📥 Installation
 
@@ -40,6 +39,15 @@ Select Clock In to go on duty, or Clock Out to leave duty.
 
 https://discord.gg/5MGKBwU9jG - dev server for custom scripts
 
+# Ace Perms
+must use discord badger ace permissions to work this.
+example
+add_ace group.staff dd_staff-duty allow - able to clockon as staff
+
+add_ace group.dhs dd_staff-duty allow - able to clockon as dhs while staff.
+
 📜 License
 
-This resource is provided as-is. Free to use and modify, but please credit Disconnected.
+This project is licensed under the MIT License — you’re free to use, modify, and distribute it with attribution.
+
+Developed and maintained by DisconnectedDev (dd).
